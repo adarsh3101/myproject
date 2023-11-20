@@ -2,6 +2,8 @@
 
 This is my FRT Internship project
 
+Project Link: https://myprojectdenizen.z29.web.core.windows.net/
+
 # Project Statement:
 
 In a real estate environment, it can be easy to overlook the significance of a project manager’s role: to keep the project moving on schedule and under budget. In the past, some project managers had to justify their presence on a project site. But today, project managers’ pay structure — and the incentives for projects wrapping up as planned — indicates that their value has proven itself over time. 
