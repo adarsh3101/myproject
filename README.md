@@ -1,8 +1,6 @@
 # DENIZEN
 
-This is my FRT Internship project....
-
-azure link:
+This is my FRT Internship project
 
 # Project Statement:
 
